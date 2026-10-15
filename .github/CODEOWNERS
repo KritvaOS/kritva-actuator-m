@@ -1,0 +1,5 @@
+# Code owners. Replace the placeholder handles before enabling branch protection.
+#   @dineshannayya  -> Project Lead (current organisation owner)
+#   <INTERN>        -> Mechanical Intern 2
+#   <REVIEWER>      -> Independent Mechanical Reviewer
+*               @dineshannayya
