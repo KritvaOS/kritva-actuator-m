@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.0",
+  "workstream_id": "ACT_M",
+  "repo": "KritvaOS/kritva-actuator-m",
+  "source": {
+    "branch": "main",
+    "commit": "e2bb951674bbb382bc6c75de86ccc8085bbe1416",
+    "tag": null
+  },
+  "tasks": [
+    {
+      "task_id": "ACT-M-001",
+      "execution": "NOT_STARTED",
+      "git_sync": "NOT_COMMITTED",
+      "readiness": "PLANNABLE",
+      "evidence": []
+    },
+    {
+      "task_id": "ACT-M-002",
+      "execution": "NOT_STARTED",
+      "git_sync": "NOT_COMMITTED",
+      "readiness": "PLANNABLE",
+      "evidence": []
+    },
+    {
+      "task_id": "ACT-M-003",
+      "execution": "NOT_STARTED",
+      "git_sync": "NOT_COMMITTED",
+      "readiness": "PLANNABLE",
+      "evidence": []
+    },
+    {
+      "task_id": "ACT-M-004",
+      "execution": "NOT_STARTED",
+      "git_sync": "NOT_COMMITTED",
+      "readiness": "PLANNABLE",
+      "evidence": []
+    },
+    {
+      "task_id": "ACT-M-005",
+      "execution": "NOT_STARTED",
+      "git_sync": "NOT_COMMITTED",
+      "readiness": "HARDWARE-BLOCKED",
+      "evidence": []
+    },
+    {
+      "task_id": "ACT-M-006",
+      "execution": "NOT_STARTED",
+      "git_sync": "NOT_COMMITTED",
+      "readiness": "HARDWARE-BLOCKED",
+      "evidence": []
+    },
+    {
+      "task_id": "ACT-M-007",
+      "execution": "NOT_STARTED",
+      "git_sync": "NOT_COMMITTED",
+      "readiness": "HARDWARE-BLOCKED",
+      "evidence": []
+    },
+    {
+      "task_id": "ACT-M-008",
+      "execution": "NOT_STARTED",
+      "git_sync": "NOT_COMMITTED",
+      "readiness": "PLANNABLE",
+      "evidence": []
+    }
+  ],
+  "updated_at": "2026-10-16T08:19:56+05:30"
+}
